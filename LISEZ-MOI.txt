@@ -1,0 +1,15 @@
+SHARNELLE BY NÉLLÉA — BOUTIQUE DE DÉMARRAGE
+
+CONTENU
+- index.html : boutique responsive, conçue pour téléphone et ordinateur.
+- assets/apercu-design.png : aperçu visuel du style proposé.
+
+AVANT DE PARTAGER LE SITE
+1. Ouvrez index.html dans un éditeur de texte.
+2. Cherchez la ligne : const WHATSAPP_NUMBER = "22500000000";
+3. Remplacez 22500000000 par le numéro WhatsApp professionnel, avec l'indicatif pays, sans +, espace ou tiret.
+4. Vérifiez les références, les prix et les photos. Les images actuelles sont des images d'exemple en ligne, pas les photos officielles des articles.
+5. Testez les boutons de commande.
+
+PUBLICATION GRATUITE
+Ce dossier est un prototype prêt à tester, mais il n'est pas encore publié sur Internet. Pour le rendre accessible aux clients, téléversez les fichiers sur un hébergeur statique gratuit comme GitHub Pages ou Netlify. Le nom d'adresse gratuit dépendra du service choisi et de sa disponibilité. Aucun paiement en ligne n'est configuré : la commande est envoyée à WhatsApp pour confirmation.
